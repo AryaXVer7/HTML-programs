@@ -1,1 +1,1 @@
-It is my repo for html programs.
+This repository is for html programs.
